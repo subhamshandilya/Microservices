@@ -1,0 +1,14 @@
+server:
+  port: 9192
+spring:
+  h2:
+    console:
+      enabled: true
+
+  application:
+    name: ORDER-SERVICE
+
+logging:
+  file: C:/Users/91987/Desktop/Mysoft/microservice.log
+
+
